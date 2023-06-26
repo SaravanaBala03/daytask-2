@@ -1,0 +1,13 @@
+browser object
+
+individual tab
+ or
+browser tab
+
+changes of whole windows level related things that is called browser object.
+
+document object 
+
+web pages
+
+changes of web page realted thinks is called a document object.
